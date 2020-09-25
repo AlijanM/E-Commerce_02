@@ -1,0 +1,8 @@
+HTTP authentication is on the server-side asking for some authentication information like username, password when
+the client requests a URL. This is additional security for the request and the response being exchanged between the client and the server.
+
+From the client-side these additional authentication information i.e. username and password can be sent in the headers,
+which later on the server side will be validated. The response will be delivered from the server-side only when the authentication is valid.
+If server asks client for authentication information, e.g. username and password, for providing response/data:
+1. client sends authentication information in the request headers when requesting a URL
+2. server validate the information, i.e. required data will delivered if authentication is valid

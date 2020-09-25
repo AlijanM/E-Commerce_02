@@ -1,0 +1,45 @@
+09/22/2020 09:24:23 - UpdateCartIphone - INFO: Element found with locator: //a[contains(text(),'Mobile')] and  locatorType: xpath
+09/22/2020 09:24:24 - UpdateCartIphone - INFO: Clicked on element with locator: //a[contains(text(),'Mobile')] locatorType: xpath
+09/22/2020 09:24:24 - UpdateCartIphone - INFO: Element found with locator: //li[2]//div[1]//div[3]//button[1]//span[1]//span[1] and  locatorType: xpath
+09/22/2020 09:24:25 - UpdateCartIphone - INFO: Clicked on element with locator: //li[2]//div[1]//div[3]//button[1]//span[1]//span[1] locatorType: xpath
+09/22/2020 09:24:25 - UpdateCartIphone - INFO: Element found with locator: //a[contains(@class,'skip-link skip-cart')]//span[@class='label'][contains(text(),'Cart')] and  locatorType: xpath
+09/22/2020 09:24:25 - UpdateCartIphone - INFO: Clicked on element with locator: //a[contains(@class,'skip-link skip-cart')]//span[@class='label'][contains(text(),'Cart')] locatorType: xpath
+09/22/2020 09:24:25 - UpdateCartIphone - INFO: Element found with locator: //a[@class='btn-edit'] and  locatorType: xpath
+09/22/2020 09:24:26 - UpdateCartIphone - INFO: Clicked on element with locator: //a[@class='btn-edit'] locatorType: xpath
+09/22/2020 09:24:26 - UpdateCartIphone - INFO: Element found with locator: //input[@id='qty'] and  locatorType: xpath
+09/22/2020 09:24:26 - UpdateCartIphone - INFO: Sent data on element with locator: //input[@id='qty'] locatorType: xpath
+09/22/2020 09:24:26 - UpdateCartIphone - INFO: Element found with locator: //span[contains(text(),'Update Cart')] and  locatorType: xpath
+09/22/2020 09:24:26 - UpdateCartIphone - INFO: Clicked on element with locator: //span[contains(text(),'Update Cart')] locatorType: xpath
+09/22/2020 09:24:27 - UpdateCartIphone - INFO: Element found with locator: //input[@data-cart-item-id='MOB0002'] and  locatorType: xpath
+09/22/2020 09:24:27 - UpdateCartIphone - INFO: Element found with locator: //ul[@class='checkout-types top']//span[contains(text(),'Proceed to Checkout')] and  locatorType: xpath
+09/22/2020 09:24:28 - UpdateCartIphone - INFO: Clicked on element with locator: //ul[@class='checkout-types top']//span[contains(text(),'Proceed to Checkout')] locatorType: xpath
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: //button[@id='onepage-guest-register-button']//span[contains(text(),'Continue')] and  locatorType: xpath
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Clicked on element with locator: //button[@id='onepage-guest-register-button']//span[contains(text(),'Continue')] locatorType: xpath
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:firstname and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:firstname locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:lastname and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:lastname locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:email and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:email locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:street1 and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:street1 locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:city and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:city locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:region_id and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:postcode and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:postcode locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: billing:telephone and  locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Sent data on element with locator: billing:telephone locatorType: id
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: //div[@id='billing-buttons-container']//span[contains(text(),'Continue')] and  locatorType: xpath
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Clicked on element with locator: //div[@id='billing-buttons-container']//span[contains(text(),'Continue')] locatorType: xpath
+09/22/2020 09:24:29 - UpdateCartIphone - INFO: Element found with locator: //div[@id='shipping-method-buttons-container']//button[@class='button']//span//span[contains(text(),'Continue')] and  locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Clicked on element with locator: //div[@id='shipping-method-buttons-container']//button[@class='button']//span//span[contains(text(),'Continue')] locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Element found with locator: //label[@for='p_method_checkmo'][contains(text(),'Check / Money order')] and  locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Clicked on element with locator: //label[@for='p_method_checkmo'][contains(text(),'Check / Money order')] locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Element found with locator: //div[@id='payment-buttons-container']//button[@class='button']//span//span[contains(text(),'Continue')] and  locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Clicked on element with locator: //div[@id='payment-buttons-container']//button[@class='button']//span//span[contains(text(),'Continue')] locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Element found with locator: //span[contains(text(),'Place Order')] and  locatorType: xpath
+09/22/2020 09:24:30 - UpdateCartIphone - INFO: Clicked on element with locator: //span[contains(text(),'Place Order')] locatorType: xpath
+09/22/2020 09:24:31 - UpdateCartIphone - INFO: Element found with locator: //div[@class='page-title']/h1[contains(text(),'Your order has been received.')] and  locatorType: xpath
+09/22/2020 09:24:31 - UpdateCartIphone - INFO: Getting text on element :: 
+09/22/2020 09:24:31 - UpdateCartIphone - INFO: The text is :: 'YOUR ORDER HAS BEEN RECEIVED.'
